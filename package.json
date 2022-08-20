@@ -1,7 +1,7 @@
 {
   "name": "jeopardy_client",
   "version": "0.1.0",
-  "homepage": "https://C14H14N2O4.github.io/buzz-game-client",
+  "homepage": "https://c14h14n2o4.github.io/buzz-game-client/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
