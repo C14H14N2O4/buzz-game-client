@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/buzz-game-client/static/css/main.ee6a1619.css",
+    "main.js": "/buzz-game-client/static/js/main.43b3c98b.js",
+    "index.html": "/buzz-game-client/index.html",
+    "main.ee6a1619.css.map": "/buzz-game-client/static/css/main.ee6a1619.css.map",
+    "main.43b3c98b.js.map": "/buzz-game-client/static/js/main.43b3c98b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee6a1619.css",
+    "static/js/main.43b3c98b.js"
+  ]
+}
